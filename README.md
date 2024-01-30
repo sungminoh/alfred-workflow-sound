@@ -19,3 +19,5 @@ brew install switchaudio-osx
 `sound` + `<query (optional)>` 
 
 
+
+#### [Download](https://github.com/sungminoh/alfred-workflow-sound/releases/download/v0.0.1/Sound.Input.Controll.alfredworkflow)
